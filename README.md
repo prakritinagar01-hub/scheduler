@@ -1,7 +1,7 @@
 
 ## ⏰ Scheduler
 
-WebWatch uses **APScheduler** to automatically monitor websites at regular intervals.
+WebWatch uses **APScheduler** to automatically monitor websites at regular intervals........
 
 ### Scheduler Code
 
